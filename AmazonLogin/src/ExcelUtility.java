@@ -13,7 +13,6 @@ public class ExcelUtility {
 	 * Binary Name - poi-bin-3.11-beta2-20140822.zip
 	 * Extract the binary
 	 * Add all the jars from the location you extracted
-	 * Also add all the jars from lib, do not add the jar file of log4j
 	 * Also add all the jars from ooxml-lib
 	 */
 	
